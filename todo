@@ -1,0 +1,8 @@
+Bookstore Project:
+✔ installer express 
+  installer la bdd:
+    ✔ creation de BDD (mongoDB)
+    ✔ acces à la bdd (mongoose) 
+    ☐ acces à la bdd [SQL] => SEQUELIZE
+✔ creation de notre model: @started(21-03-19 15:38) @done(21-03-19 16:04) @lasted(26m25s)
+    ✔ creation des methodes [POST/GET] 
